@@ -23,7 +23,7 @@ Strongest move: blast-burn (Power: 150)
 - Python 3.9+
 
 ### Installation
-Download the 'pokemon-strongest-move' folder from the repository, then:
+Download the `pokemon-strongest-move` folder from the repository into working directory, then in terminal:
 ```bash
 cd pokemon-strongest-move
 
